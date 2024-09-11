@@ -1,8 +1,3 @@
----
-title: Case Study 2 - Modular Programming
-
----
-
 # Case Study 4 - Array
 Pada praktikum modul 4 ini anda akan diminta untuk membuat program yang dapat melakukan invers matriks.
 
@@ -83,3 +78,6 @@ Invers Matrix :
 -2.5 1.5 0.5
 0.5 -0.5 0.5
 ```
+
+## Format Penamaan File
+```TP_ALPROG[NomorModul]_NamaLengkap_NPM.c```
